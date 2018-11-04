@@ -1,0 +1,23 @@
+﻿Build started 12/14/2015 12:34:24 AM.
+     1>Project "C:\Users\evald_000\Documents\Visual Studio 2015\Projects\wylie hw 8\wylie hw 8\wylie hw 8.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp Stack.cpp
+         Stack.cpp
+     1>c:\users\evald_000\documents\visual studio 2015\projects\wylie hw 8\wylie hw 8\stack.h(11): warning C4010: single-line comment contains line-continuation character
+     1>c:\users\evald_000\documents\visual studio 2015\projects\wylie hw 8\wylie hw 8\stack.cpp(112): error C2065: 'cout': undeclared identifier
+     1>c:\users\evald_000\documents\visual studio 2015\projects\wylie hw 8\wylie hw 8\stack.cpp(133): error C2065: 'cout': undeclared identifier
+     1>c:\users\evald_000\documents\visual studio 2015\projects\wylie hw 8\wylie hw 8\stack.cpp(134): error C2065: 'cout': undeclared identifier
+     1>c:\users\evald_000\documents\visual studio 2015\projects\wylie hw 8\wylie hw 8\stack.cpp(138): error C2065: 'cin': undeclared identifier
+     1>c:\users\evald_000\documents\visual studio 2015\projects\wylie hw 8\wylie hw 8\stack.cpp(145): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\evald_000\documents\visual studio 2015\projects\wylie hw 8\wylie hw 8\stack.cpp(210): error C2065: 'cout': undeclared identifier
+     1>c:\users\evald_000\documents\visual studio 2015\projects\wylie hw 8\wylie hw 8\stack.cpp(220): error C2065: 'cout': undeclared identifier
+         Source.cpp
+     1>c:\users\evald_000\documents\visual studio 2015\projects\wylie hw 8\wylie hw 8\stack.h(11): warning C4010: single-line comment contains line-continuation character
+     1>c:\users\evald_000\documents\visual studio 2015\projects\wylie hw 8\wylie hw 8\source.cpp(11): error C2065: 'cout': undeclared identifier
+     1>c:\users\evald_000\documents\visual studio 2015\projects\wylie hw 8\wylie hw 8\source.cpp(15): error C2065: 'cout': undeclared identifier
+         Generating Code...
+     1>Done Building Project "C:\Users\evald_000\Documents\Visual Studio 2015\Projects\wylie hw 8\wylie hw 8\wylie hw 8.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.03
